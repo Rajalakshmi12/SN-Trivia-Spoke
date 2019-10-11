@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ques" label="Question" language="en" table="var__m_sys_hub_step_ext_output_20f8002edbd484107137a0f2ca9619a8">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ques</element>
+            <help/>
+            <hint/>
+            <label>Question</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_20f8002edbd484107137a0f2ca9619a8</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-07 16:18:03</sys_created_on>
+            <sys_id>ecf8402edbd484107137a0f2ca961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Question</sys_name>
+            <sys_package display_value="SN Trivia Spoke" source="x_217576_sn_trivia">60a7b31edb5484107137a0f2ca961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Trivia Spoke">60a7b31edb5484107137a0f2ca961958</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_20f8002edbd484107137a0f2ca9619a8_ques_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-07 16:18:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
